@@ -1,2 +1,0 @@
-# libpng
-test subtree
